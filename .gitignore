@@ -24,4 +24,4 @@ _testmain.go
 *.prof
 
 setenv.sh
-temp
+resizer
