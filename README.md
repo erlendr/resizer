@@ -5,7 +5,7 @@ Golang-based image resizer using RabbitMQ and Amazon S3.
 
 ##Prerequisites##
 - RabbitMQ
-- Amazon S3 account with credentials (see `setenv.sh`)
+- Amazon S3 account with credentials (see `setenv.sh.example`)
 
 ##How it works##
 
